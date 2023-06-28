@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CoupleScheduleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CoupleScheduleApplication.class, args);
+		SpringApplication.run(CoupleScheduleApplication.class, args); 
 	}
 
 }
